@@ -1,7 +1,12 @@
 # vessel_track
 
 
-vessel_track is a web application that receives a specific GeoJSON file, displays vessel information in a table and toggle track on map while selecting a vessel.
+vessel_track is a web application that receives a specific GeoJSON file, displays vessel information in a table and toggle track on map while selecting a vessel. Please make sure you have already installed Node.js before running it.
+The test environment on my PC is: 
+
+  - Ubuntu 18.04 LTS
+  - Node.js v8.10.0
+  - NPM 3.5.2
 
 
 # Installation
